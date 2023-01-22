@@ -4,17 +4,17 @@
     "url": "https://msnrevival.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/msnrevival.repl.co.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "75.12%",
-    "uptimeDay": "75.12%",
-    "uptimeWeek": "75.12%",
-    "uptimeMonth": "75.12%",
-    "uptimeYear": "75.12%",
-    "time": 379,
-    "timeDay": 379,
-    "timeWeek": 379,
-    "timeMonth": 379,
-    "timeYear": 379,
+    "status": "down",
+    "uptime": "86.44%",
+    "uptimeDay": "86.44%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "86.44%",
+    "uptimeYear": "86.44%",
+    "time": 353,
+    "timeDay": 353,
+    "timeWeek": 353,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2023-01-22": 46
     }
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.msnrevival.tk.ico",
     "slug": "msn-revival-server",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-22": 186
+      "2023-01-22": 342
     }
   }
 ]
