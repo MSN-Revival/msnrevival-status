@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 1129,
     "timeDay": 379,
@@ -16,7 +16,6 @@
     "timeMonth": 328,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2023-07-02": 8,
       "2023-05-25": 20,
       "2023-05-24": 34,
       "2023-05-23": 16,
@@ -53,6 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2023-07-03": 74,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
