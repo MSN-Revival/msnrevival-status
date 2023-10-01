@@ -4,7 +4,7 @@
     "url": "https://msnrevival.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/msnrevival.repl.co.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 354,
     "timeYear": 889,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2023-07-12": 127,
       "2023-05-25": 20,
       "2023-05-24": 34,
@@ -53,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-01": 57,
+      "2023-10-01": 106,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
