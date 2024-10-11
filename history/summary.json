@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/msnrevival.repl.co.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "54.86%",
+    "uptime": "54.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.68%",
-    "time": 352,
-    "timeDay": 195,
-    "timeWeek": 264,
-    "timeMonth": 386,
-    "timeYear": 340,
+    "uptimeYear": "22.41%",
+    "time": 353,
+    "timeDay": 739,
+    "timeWeek": 325,
+    "timeMonth": 401,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-10-10": 66,
+      "2024-10-11": 67,
+      "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -320,7 +321,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-10": 66,
+      "2024-10-11": 67,
+      "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -683,8 +685,7 @@
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
-      "2023-10-13": 1440,
-      "2023-10-12": 1440
+      "2023-10-13": 1440
     }
   }
 ]
